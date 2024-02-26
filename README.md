@@ -23,4 +23,8 @@
 
 - **Social Networks**: Marlon's dance-tech platform fostering global dialogue on dance and technology. [Dance-tech](https://dance-tech.net/)
 
+- **[Portfolio**: Comprehensive repostitory of projects.](https://marlonbarrios.github.io/)
+
+- **[@Medium](https://medium.com/@marlon_21867)
+
 ![Screenshot 2024-02-26 at 4 25 01 PM](https://github.com/marlonbarrios/selection-of-works/assets/90220317/3b782e34-ceae-4a10-8278-4bceb5683dca)
