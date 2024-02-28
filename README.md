@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-02-26 at 4 24 36 PM](https://github.com/marlonbarrios/selection-of-works/assets/90220317/cb0db104-0cb0-4b30-b303-24cdfe8437d5)
 
-- **AI Arts and Ethics Think Tank**: special invitation for a think-talk on AI Arts and ethics in France March 4th to 6th organized by Promavera de Philippi in Cateau du Fey, Burgundi, France.
+- **AI Arts and Ethics Think Tank**: special invitation for a think-talk on AI Arts and ethics in France March 4th to 6th 2024norganized by Primavera de Philippi in Chateau du Fey, Burgundi, France.
   
 - **Duets in Latent Spaces**: A lecture-performance exploring AI's generative potential, using applications developed by Solano to interact with AI models, integrating technologies like p5.js, Next.js, LLMs, and GANs. [GitHub](https://github.com/marlonbarrios/duets-in-latent-space)
 
