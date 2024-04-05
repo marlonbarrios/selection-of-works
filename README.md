@@ -2,6 +2,8 @@
 
 ![Screenshot 2024-02-26 at 4 24 36 PM](https://github.com/marlonbarrios/selection-of-works/assets/90220317/cb0db104-0cb0-4b30-b303-24cdfe8437d5)
 
+-** ustable Landscape: the dynamic aesthetics of change:** abimated visealization of a convceptyal map or choreography of my work. Press c for circles, l for lines and connections and t for text. Add motion or ethorpy with the slider. Visit app (here)[https://marlonbarrios.github.io/unstablelandscapeinfoviz/]
+
 - **AI Arts and Ethics Think Tank**: special invitation for a think-tank on AI Arts and ethics March 4th to 6th 2024, organized by Primavera de Philippi in Chateau du Fey, Burgundy, France.
   
 - **Duets in Latent Spaces**: A lecture-performance exploring AI's generative potential, using applications developed by Solano to interact with AI models, integrating technologies like movement improvisation, p5.js, Next.js, LLMs, and GANs. To be presented in May 2024 at the Art and Tcehnology in Governors Island in NYC organized by Harvestworks  [Medium and GitHub](https://medium.com/@marlon_21867/duets-in-latent-spaces-53bcfe49f2db)
