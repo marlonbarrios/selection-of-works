@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-02-26 at 4 24 36 PM](https://github.com/marlonbarrios/selection-of-works/assets/90220317/cb0db104-0cb0-4b30-b303-24cdfe8437d5)
 
--** ustable Landscape: the dynamic aesthetics of change:** abimated visealization of a convceptyal map or choreography of my work. Press c for circles, l for lines and connections and t for text. Add motion or ethorpy with the slider. Visit app [here](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
+-** ustable Landscape: the dynamic aesthetics of change:** animated visualization of a conceptual map or choreography of my work. Press c for circles, l for lines and connections and t for text. Add motion or ethorpy with the slider. Visit app [here](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
 
 - **AI Arts and Ethics Think Tank**: special invitation for a think-tank on AI Arts and ethics March 4th to 6th 2024, organized by Primavera de Philippi in Chateau du Fey, Burgundy, France.
   
