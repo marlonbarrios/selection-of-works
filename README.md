@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-02-26 at 4 24 36 PM](https://github.com/marlonbarrios/selection-of-works/assets/90220317/cb0db104-0cb0-4b30-b303-24cdfe8437d5)
 
--++ [Pangea-AI}(https://marlonbarrios.github.io/text-pangea-ai/)
+-++ [Pangea-AI](https://marlonbarrios.github.io/text-pangea-ai/)
 
 -** ustable Landscape: the dynamic aesthetics of change:** animated visualization of a conceptual map or choreography of my work. Press c for circles, l for lines and connections and t for text. Add motion or ethorpy with the slider. Visit app [here](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
 
