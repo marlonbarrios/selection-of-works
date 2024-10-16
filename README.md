@@ -1,4 +1,4 @@
-# Links to selected works of Marlon Barrios Solano (September 2024)
+# Links to selected works of Marlon Barrios Solano (October 2024)
 
 ![Screenshot 2024-02-26 at 4 24 36 PM](https://github.com/marlonbarrios/selection-of-works/assets/90220317/cb0db104-0cb0-4b30-b303-24cdfe8437d5)
 
