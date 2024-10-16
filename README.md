@@ -2,17 +2,18 @@
 
 ![Screenshot 2024-02-26 at 4 24 36 PM](https://github.com/marlonbarrios/selection-of-works/assets/90220317/cb0db104-0cb0-4b30-b303-24cdfe8437d5)
 
--++ [Pangea-AI](https://marlonbarrios.github.io/text-pangea-ai/)
+- **[Portfolio**: Comprehensive repostitory of projects.](https://marlonbarrios.github.io/)
+
 
 -** ustable Landscape: the dynamic aesthetics of change:** animated visualization of a conceptual map or choreography of my work. Press c for circles, l for lines and connections and t for text. Add motion or ethorpy with the slider. Visit app [here](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
 
-- **AI Arts and Ethics Think Tank**: special invitation for a think-tank on AI Arts and ethics March 4th to 6th 2024, organized by Primavera de Philippi in Chateau du Fey, Burgundy, France.
-  
-- **Duets in Latent Spaces**: A lecture-performance exploring AI's generative potential, using applications developed by Solano to interact with AI models, integrating technologies like movement improvisation, p5.js, Next.js, LLMs, and GANs.  [GitHub](https://marlonbarrios.github.io/duets-in-latent-space/)
+- **[Pangea-AI](https://marlonbarrios.github.io/text-pangea-ai/)**
 
-- **Meta-fictions: Entangled with Odd Kins**: Reflects on a residency, exploring generativity, dance, and AI. It combines fiction and reality through interactions between dancers, AI, and the audience. Created in Colaboration with Dakota Comin (Spain), Cesar Rene Perez (Mexico) and  Vera Rivas (Mexico). Project selected for Fall 2024 residency in Centro de Culture Digital in Mexico City [Dance-tech](https://dance-tech.net/profiles/blogs/meta-fictions-entangled-with-odd-kins)
+- **Duets in Latent Spaces**: A lecture-performance exploring AI's generative potential, using applications developed by Solano to interact with AI models, integrating technologies like movement improvisation, p5.js, Next.js, LLMs, and GANs.  [More information](https://marlonbarrios.github.io/duets-in-latent-space/)
 
 - **Latent Spaces: Morphs, Migrations and Digressions**: A collection of AI-generated sound and video. [YouTube](https://www.youtube.com/playlist?list=PLC2ijZ2U-avigrHibNpeudp2hd4hrAWrS)
+
+- **Meta-fictions: Entangled with Odd Kins**: Reflects on a residency, exploring generativity, dance, and AI. It combines fiction and reality through interactions between dancers, AI, and the audience. Created in Colaboration with Dakota Comin (Spain), Cesar Rene Perez (Mexico) and  Vera Rivas (Mexico). Project selected for Fall 2024 residency in Centro de Culture Digital in Mexico City [Dance-tech](https://dance-tech.net/profiles/blogs/meta-fictions-entangled-with-odd-kins)
 
 - **digressions in latent space: my first album as multi-media + multimodal+ multi-model artist** [Album on BandCamp](https://medium.com/@marlon_21867/digressions-in-latent-space-b11dd9ba46c8)
 
